@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\charpProjects\\reactAndasp\\RESTORE\\RESTORE\\wwwroot\\images\\products\\hasssan.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hasssan.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RESTORE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RESTORE.props",
+      "PackagePath": "build\\RESTORE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RESTORE.props",
+      "PackagePath": "buildMultiTargeting\\RESTORE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RESTORE.props",
+      "PackagePath": "buildTransitive\\RESTORE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "zvLGRP3dIp7PVXUaS2iPTWykgnYqunPn/E82XOBxfvc=",
+  "Source": "RESTORE",
+  "BasePath": "_content/RESTORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RESTORE\\wwwroot",
+      "Source": "RESTORE",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\charpProjects\\reactAndasp\\RESTORE\\RESTORE\\wwwroot\\",
+      "BasePath": "_content/RESTORE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\charpProjects\\reactAndasp\\RESTORE\\RESTORE\\wwwroot\\images\\products\\hasssan.jpg",
+      "SourceId": "RESTORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\charpProjects\\reactAndasp\\RESTORE\\RESTORE\\wwwroot\\",
+      "BasePath": "_content/RESTORE",
+      "RelativePath": "images/products/hasssan.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hasssan.jpg"
+    }
+  ]
+}
