@@ -1,1 +1,1 @@
-E-commerce using .net for backend and react.js for frontend
+E-commerce website using .net for backend and react.js for frontend
